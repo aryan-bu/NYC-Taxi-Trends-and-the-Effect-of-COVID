@@ -1,1 +1,5 @@
 # NYC-Taxi-Trends-and-the-Effect-of-COVID
+
+### Contributors: Aryan Kumar, Jenn Hong, Olimpia Borgohain, Saumya Anand, Setu Shah
+
+The New York taxi industry, a cornerstone of urban mobility, faced unprecedented challenges during the COVID-19 pandemic, prompting a deep dive into its evolution across pre-COVID, COVID, and post-COVID periods. Our project not only examines shifts in passenger behaviors, fare dynamics, and payment preferences but also employs advanced machine learning techniques, specifically the Random Forest algorithm, to predict taxi demand. By analyzing variables such as average passenger count and COVID-related metrics, we provide actionable insights for industry stakeholders to optimize operations and meet evolving consumer demands. Our analysis encompasses economic shifts, payment trends, fluctuations in trip patterns, and the resilience of key transportation hubs, offering a comprehensive view of the industry's response to dynamic market forces and empowering stakeholders to navigate future challenges effectively.
